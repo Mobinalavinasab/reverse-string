@@ -1,0 +1,27 @@
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\appsettings.Development.json
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\appsettings.json
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\reverse string.exe
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\reverse string.deps.json
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\reverse string.runtimeconfig.json
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\reverse string.dll
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\ref\reverse string.dll
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\reverse string.pdb
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\تمرین\reverse string\reverse string\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.csproj.AssemblyReference.cache
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.GeneratedMSBuildEditorConfig.editorconfig
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.AssemblyInfoInputs.cache
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.AssemblyInfo.cs
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.csproj.CoreCompileInputs.cache
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.MvcApplicationPartsAssemblyInfo.cs
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.MvcApplicationPartsAssemblyInfo.cache
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\staticwebassets.build.json
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\staticwebassets.development.json
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\scopedcss\bundle\reverse string.styles.css
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.csproj.CopyComplete
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.dll
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\ref\reverse string.dll
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.pdb
+E:\تمرین\reverse string\reverse string\obj\Debug\net6.0\reverse string.genruntimeconfig.cache
